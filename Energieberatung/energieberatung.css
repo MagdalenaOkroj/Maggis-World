@@ -1,0 +1,28 @@
+body{
+
+    background-color: rgb(140, 206, 231);
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+.navbox button{
+    background-color: lightblue;
+}
+
+.Top {
+
+    display: flex;
+    justify-content: space-around;
+    color: blue;
+    margin-bottom: 10px;
+}
+
+footer{
+
+    display: flex;
+    justify-content: space-around;
+}
+

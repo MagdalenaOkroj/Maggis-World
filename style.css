@@ -1,0 +1,63 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(Main\ picture\ -Mein\ Motto.jpg);
+    width: auto;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+image {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.Top {
+
+    display: flex;
+    justify-content: space-around;
+    color: blue;
+    margin-bottom: 10px;
+}
+
+.navbox button{
+    background-color: lightblue;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+h2{
+    color: blue;
+    font-style: italic;
+}
+
+
+.mitte-Bild{    
+    
+    width: 200px;
+
+    
+}
+
+.mitte-Bild img{
+
+    width: 100%;
+}
+
+main{
+
+    margin-left: 100px;
+    justify-content: start;
+}
+
+footer{
+
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-around;
+}
